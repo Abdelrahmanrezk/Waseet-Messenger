@@ -9,7 +9,7 @@ Waseet Messenger is a chatting system like FB Messenger, Telegram or WhatsApp, d
 **Waseet Designed To help those even of deaf and meet other problem like Reading Natrual Arabic Language via Simulation**
 
 
-#### Designed Keyboard for deaf
+#### Waseet Designed Keyboard
 
 ![alt Designed Keyboard](Waseet-Messenger/Designs/Images/4-Copy.jpeg)
 
@@ -18,6 +18,9 @@ Waseet Messenger is a chatting system like FB Messenger, Telegram or WhatsApp, d
 
 
 ![alt Simulator Arabic](Waseet-Messenger/Designs/Images/13.jpeg)
+
+
+
 
 
 
